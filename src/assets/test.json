@@ -1,0 +1,83 @@
+{
+  "type": "force",
+  "categories": [
+    {
+      "name": "HTMLElement",
+      "keyword": {},
+      "base": "HTMLElement"
+    },
+    {
+      "name": "WebGL",
+      "keyword": {},
+      "base": "WebGLRenderingContext"
+    },
+    {
+      "name": "SVG",
+      "keyword": {},
+      "base": "SVGElement"
+    },
+    {
+      "name": "CSS",
+      "keyword": {},
+      "base": "CSSRule"
+    },
+    {
+      "name": "Other",
+      "keyword": {}
+    }
+  ],
+  "nodes": [
+    {
+      "name": "AnalyserNode",
+      "value": 1,
+      "symbolSize": 50,
+      "category": 4
+    },
+    {
+      "name": "CSSValue",
+      "value": 1,
+      "symbolSize": 50,
+      "category": 3
+    },
+    {
+      "name": "HTMLElement",
+      "value": 3,
+      "symbolSize": 50,
+      "category": 0
+    },
+    {
+      "name": "SVGCursorElement",
+      "value": 1,
+      "symbolSize": 50,
+      "category": 2
+    },
+    {
+      "name": "WebGLContextAttributes",
+      "value": 1,
+      "symbolSize": 50,
+      "category": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1
+    },
+    {
+      "source": 0,
+      "target": 2
+    },
+    {
+      "source": 0,
+      "target": 3
+    },
+    {
+      "source": 0,
+      "target": 4
+    },
+    {
+      "source": 0,
+      "target": 5
+    }
+  ]
+}
